@@ -9,7 +9,7 @@ DailyUber provides the 2016 data. By using this data find out the demand and sup
 *   Completed Trip = The point from when a customer is picked
 
 
-###**Objectives for Analysis**
+**Objectives for Analysis**
 
 1.   Which date had the most completed trips during the two weeks?
 2.   What was the highest number of completed trips within a 24-hour period?
